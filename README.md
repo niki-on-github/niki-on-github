@@ -6,4 +6,4 @@
 
 ## Other
 
-Hier könnte ihre Werbung Stehen.
+Hier könnte ihre Werbung stehen.
