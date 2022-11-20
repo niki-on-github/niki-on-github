@@ -7,3 +7,8 @@
 ## Other
 
 Hier könnte ihre Werbung stehen.
+
+![](https://raw.githubusercontent.com/niki-on-github/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/niki-on-github/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/niki-on-github/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/niki-on-github/github-stats/master/generated/languages.svg#gh-light-mode-only)
